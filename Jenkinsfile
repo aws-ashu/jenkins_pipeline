@@ -1,6 +1,6 @@
 node (){
 stage('buidl'){
- echo "build pass
+ echo "build pass"
 }
 stage('qa'){
 echo "aq pass"
