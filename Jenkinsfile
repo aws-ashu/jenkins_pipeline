@@ -1,11 +1,11 @@
 node (){
-stage(buidl){
+stage('buidl'){
  echo "build pass
 }
-stage(qa){
+stage('qa'){
 echo "aq pass"
 }
-stage(release){
+stage('release'){
 echo "release pass"
 }
 }
